@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  iosstudy8-1
 //
-//  
+//  8주차 실습
 //
 
 import UIKit
